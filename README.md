@@ -6,12 +6,12 @@
 
 ### Narzędzia, czyli zbiór technologii na których pracuję
 
-- Języki programowania i frameworki: Python (w trakcie nauki)
-- Bazy danych: MySQL
-- Systemy operacyjne: Windows, Android
-- Poznane metodologie zarządzania: Scrum, Kanban, Waterfall
-- Narzędzia do zarządzania testowaniem: Jira
-- Narzędzia wspomagające testowanie: konsola Chrome
+> - Języki programowania i frameworki: Python (w trakcie nauki)
+> - Bazy danych: MySQL
+> - Systemy operacyjne: Windows, Android
+> - Poznane metodologie zarządzania: Scrum, Kanban, Waterfall
+> - Narzędzia do zarządzania testowaniem: Jira
+> - Narzędzia wspomagające testowanie: konsola Chrome
 
 ### Kursy
 
