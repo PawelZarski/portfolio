@@ -15,10 +15,10 @@
 
 ### Kursy
 
-> Postman od podstaw - testowanie **REST API** (kurs na *udemy.com*)
+> Postman od podstaw - testowanie **REST API** (kurs na *udemy.com*)  
 > Bootcamp testerski - testowanie oprogramowania 2023 (kurs na *udemy.com*) (w trakcie nauki)  
 > SQL (kurs na aplikacji *Sololearn*)  
-> HTML (kurs na aplikacji *Sololearn*)
+> HTML (kurs na aplikacji *Sololearn*)  
 
 ### Techniczne książki
 
