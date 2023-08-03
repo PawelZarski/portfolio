@@ -28,6 +28,6 @@
 
 ### Moje testy
 
-> [santander_becas.odt](https://github.com/PawelZarski/portfolio/files/12248254/santander_becas.odt)
-> [makeitright.odt](https://github.com/PawelZarski/portfolio/files/12250638/makeitright.odt)
+> [santander_becas.odt](https://github.com/PawelZarski/portfolio/files/12248254/santander_becas.odt)  
+> [makeitright.odt](https://github.com/PawelZarski/portfolio/files/12250638/makeitright.odt)  
 
